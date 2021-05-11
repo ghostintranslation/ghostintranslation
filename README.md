@@ -11,9 +11,7 @@ https://www.instagram.com/ghostintranslation/
 
 https://www.youtube.com/channel/UCcyUTGTM-hGLIz4194Inxyw
 
-You can support me by buying my music or the PCBs to build those modules on:
-
-https://ghostintranslation.bandcamp.com/
+You can support me on [Bandcamp](https://ghostintranslation.bandcamp.com/) and [Ko-FI](https://ko-fi.com/ghostintranslation).
 
 <!--
 **ghostintranslation/ghostintranslation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
