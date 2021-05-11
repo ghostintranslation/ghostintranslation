@@ -11,7 +11,7 @@ https://www.instagram.com/ghostintranslation/
 
 https://www.youtube.com/channel/UCcyUTGTM-hGLIz4194Inxyw
 
-And you can also support me by buying my music or the PCBs to build those modules on:
+You can support me by buying my music or the PCBs to build those modules on:
 
 https://ghostintranslation.bandcamp.com/
 
