@@ -5,7 +5,7 @@ I'm creating and open sourcing my own modular synths system. To achieve that I t
 And so I created the [MOTHERBOARD](https://github.com/ghostintranslation/motherboard/), a platform that offers many possibilities and with which I created already a few modules:
 [SYNTH](https://github.com/ghostintranslation/synth/), [DRONE](https://github.com/ghostintranslation/drone/), [DS909](https://github.com/ghostintranslation/ds909/), [PSYC03](https://github.com/ghostintranslation/psyc03/), [CYCLE](https://github.com/ghostintranslation/cycle/), [BYTE](https://github.com/ghostintranslation/byte/)
 
-I showcase the modules on [Instagram](https://www.instagram.com/ghostintranslation/) and [YouTube](https://www.youtube.com/channel/UCcyUTGTM-hGLIz4194Inxyw).
+I showcase the modules on [Instagram](https://www.instagram.com/ghostintranslation/) and [YouTube](https://www.youtube.com/channel/GhostInTranslation).
 
 You can support me on [Bandcamp](https://ghostintranslation.bandcamp.com/) and [Ko-FI](https://ko-fi.com/ghostintranslation).
 
