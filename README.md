@@ -7,7 +7,7 @@ And so I created the [MOTHERBOARD](https://github.com/ghostintranslation/motherb
 
 I showcase the modules on [Instagram](https://www.instagram.com/ghostintranslation/) and [YouTube](https://www.youtube.com/c/GhostInTranslation).
 
-You can support me on [Bandcamp](https://ghostintranslation.bandcamp.com/) and [Ko-FI](https://ko-fi.com/ghostintranslation).
+You can support me on [Bandcamp](https://ghostintranslation.bandcamp.com/) and [Patreon](https://www.patreon.com/ghostintranslation).
 
 <!--
 **ghostintranslation/ghostintranslation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
